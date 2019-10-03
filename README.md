@@ -8,6 +8,8 @@ Place: CRI Paris hackathon
 2. creating tools (analysis, visualization of data, ...) to help the emergence of new insights around the two challenges
 3. managing data on github (opening repository on github, creating data analysis pipeline, collective working on the code)
 
+# Results will be announced on the platform of JOGL 
+https://app.jogl.io/challenge/1
 
 # Website and registration
 https://www.eventbrite.fr/e/sprint-data-on-vaccination-by-jogl-correlaid-paris-registration-73972360321
@@ -31,7 +33,6 @@ Health Nutrition and population"	https://datacatalog.worldbank.org/dataset/healt
 14. European Union Public Health Information and Knowledge system	https://www.herc.ox.ac.uk/downloads/health_datasets/browse-data-sets/euphix-eu-public-health-information-knowledge-system
 15. "World Health Organisation
 Health expenditure database"	http://apps.who.int/nha/database/Home/Index/en/
-16. 
-Incidence data for many diseases, included measles up to 2008
+16. Incidence data for many diseases, included measles up to 2008
 https://www.sentiweb.fr/france/fr/?page=table
 
