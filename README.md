@@ -1,7 +1,7 @@
 # Hackathon on Vaccination
 Co-organisers: JOGL X CorrelAid on 3rd October
 
-Plcae: CRI Paris hackathon
+Place: CRI Paris hackathon
 
 # Objectives and expected outcomes : 
 1. finding databases relevant to tackle the challenges of access to vaccination and vaccine hesitancy
