@@ -17,3 +17,17 @@ https://www.eventbrite.fr/e/sprint-data-on-vaccination-by-jogl-correlaid-paris-r
 1. https://data.unicef.org/topic/child-health/immunization/#data
 2. http://rchiips.org/PRCH-3.html
 3. https://www.mdpi.com/2076-393X/7/1/24
+4. World Health Organisation	https://www.who.int/gho/database/en/
+5. World Bank	https://data.worldbank.org/
+6. Institute for Health Metrics and Evaluation	http://www.healthdata.org/
+7. Gavi - the vaccine alliance	https://www.gavi.org/library/gavi-documents/
+8. Center for Disease Prevention and Control	https://www.cdc.gov/vaccines/imz-managers/nis/data-tables.html
+9. Unicef	https://data.unicef.org/topic/child-health/immunization/
+10. "World Health Organisation
+11. European Health information gateway"	https://gateway.euro.who.int/en/hfa-explorer/
+12. Eurostat	https://ec.europa.eu/eurostat/data/database
+13. "World bank
+Health Nutrition and population"	https://datacatalog.worldbank.org/dataset/health-nutrition-and-population-statistics
+14. European Union Public Health Information and Knowledge system	https://www.herc.ox.ac.uk/downloads/health_datasets/browse-data-sets/euphix-eu-public-health-information-knowledge-system
+15. "World Health Organisation
+Health expenditure database"	http://apps.who.int/nha/database/Home/Index/en/
