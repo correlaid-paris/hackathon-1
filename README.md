@@ -9,6 +9,7 @@ Place: CRI Paris hackathon
 3. managing data on github (opening repository on github, creating data analysis pipeline, collective working on the code)
 
 # Results will be announced on the platform of JOGL 
+https://app.jogl.io/projects
 https://app.jogl.io/challenge/1
 
 # Website and registration
