@@ -1,5 +1,5 @@
 # Hackathon on Vaccination
-Co-organisers: JOGL X CorrelAid on 3rd October
+Co-organisers: JOGL X CorrelAid on 3rd and 29th October
 
 Place: CRI Paris hackathon
 
