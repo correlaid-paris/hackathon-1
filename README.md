@@ -1,6 +1,9 @@
 # Hackathon on Vaccination
 Co-organisers: JOGL X CorrelAid on 3rd and 29th October
 
+# Hackathon on Open Data Days 
+March 2020 https://github.com/Liyubov/healthycityhack.github.io 
+
 Place: CRI Paris hackathon
 
 # Objectives and expected outcomes : 
